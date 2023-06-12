@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**dousbao/dousbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+* I am:
+  * A undergraduate **CS student** from [Simon Fraser University](https://www.sfu.ca/).
+  * A linux fan. Love lightweight thing comes with mininum setup and requires extra config.
+  * A software **developer**.
+  * A C++ **learner**, user.
+* Representative Project:
+  * telcxx (working on): a morden telnet client focused on MUD game.
+* Doing: Learning advanced algorithm; Concentrate more on mathematical proof and analysis.
+* Reading: "Introduction to Algorithm, Fourth Edition".
+* Email: jca521@sfu.ca
