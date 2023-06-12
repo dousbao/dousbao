@@ -5,7 +5,5 @@
   * A software **developer**.
   * A C++ **learner**, user.
 * Representative Project:
-  * telcxx (working on): a morden telnet client focused on MUD game.
-* Doing: Learning advanced algorithm; Concentrate more on mathematical proof and analysis.
-* Reading: "Introduction to Algorithm, Fourth Edition".
+  * telcxx (developing): a modern telnet client focused on MUD game.
 * Email: jca521@sfu.ca
